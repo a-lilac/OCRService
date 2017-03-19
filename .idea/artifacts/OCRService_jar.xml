@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OCRService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OCRService_jar</output-path>
+    <root id="archive" name="OCRService.jar">
+      <element id="module-output" name="OCRService" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ojdbc7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
